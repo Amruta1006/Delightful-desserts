@@ -55,3 +55,17 @@ p{
     font-style: normal;
     margin-left: 25px;
 }
+
+.buttons{
+    display: flex;
+    margin: 20px;
+    height: 50px;
+    width: 600px;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.btn{
+    margin: 10px;
+}
