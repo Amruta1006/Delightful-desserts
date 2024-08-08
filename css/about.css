@@ -1,0 +1,19 @@
+body{
+    background-color: #eaddcf;
+    margin: 0;
+    padding: 0;
+ }
+
+ .heading{
+    margin:20px;
+    text-align: center;
+    color: #020826;
+    font-size: 3.5rem;
+ }
+ 
+ .heading2{
+    /* margin:10px; */
+    text-align: center;
+    color: #05166a;
+    font-size: 3.5rem;
+ }
