@@ -1,12 +1,30 @@
-body{
-    background-color:#f9f4ef ;
+body {
+    background-color: #f9f4ef;
     margin: 0;
     padding: 0;
- }
+}
 
- .heading{
-    margin:20px;
+.heading {
+    margin: 20px;
     text-align: center;
     color: #020826;
     font-size: 3.5rem;
- }
+}
+
+.sweets-library-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adds space between cards */
+    justify-content: center; /* Centers the cards */
+    margin: 30px;
+}
+
+.sweets-library {
+    height: 300px;
+    width: 300px;
+    margin: 10px; /* Adds margin to each card */
+    background-color: #fff; /* Optional: adds background to the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for better visibility */
+    border-radius: 8px; /* Optional: rounds the corners of the card */
+    overflow: hidden; /* Ensures content doesn’t overflow the card */
+}
