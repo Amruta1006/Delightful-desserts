@@ -13,11 +13,13 @@ body{
     font-size: 3.5rem;
  }
 
+ /* container-1 */
 .chef-1{
     display: flex;
     border: 1px solid brown;
     margin-left: 100px;
     margin-right: 50px;
+    margin-bottom: 10px;
  }
 
 .chef-1-img{
@@ -28,6 +30,36 @@ body{
 }
 
 .chef-1-para{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 30px;
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.3rem;
+}
+
+.heading2{
+    text-align: center;
+    color:#f25042;
+    font-size: 2.5rem;
+    font-style: normal;
+ }
+
+ /* container-2 */
+.chef-2{
+    display: flex;
+    border: 1px solid brown;
+    margin-left: 100px;
+    margin-right: 50px;
+ }
+
+.chef-2-img{
+    margin-left: 90px;
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+}
+
+.chef-2-para{
     text-align: center;
     margin-left: 70px;
     margin-right: 30px;
