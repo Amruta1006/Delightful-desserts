@@ -63,18 +63,19 @@ p{
     width: 600px;
     padding: 10px;
     flex-direction: row;
-    justify-content: start;
-    
+    justify-content: start;    
 }
 
 .btn{
     margin: 10px;
     border-radius: 30px;
-    padding: 22px;
-    background-color: #8c7851;
-    color: #fffffe;
+    padding: 20px;
+    background-color: #d3c5b6;
     text-align: center;
     font-weight: bold;
+    color: #070707; /* Set the text color */
+    text-decoration: none; /* Remove underline */
+   
 }
 
 .btn:hover{
