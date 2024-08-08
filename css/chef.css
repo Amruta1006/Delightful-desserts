@@ -50,6 +50,8 @@ body{
     border: 1px solid brown;
     margin-left: 100px;
     margin-right: 50px;
+    margin-bottom: 10px;
+
  }
 
 .chef-2-img{
@@ -60,6 +62,36 @@ body{
 }
 
 .chef-2-para{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 30px;
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1.3rem;
+}
+
+.heading2{
+    text-align: center;
+    color:#f25042;
+    font-size: 2.5rem;
+    font-style: normal;
+ }
+
+ /* container-3 */
+.chef-3{
+    display: flex;
+    border: 1px solid brown;
+    margin-left: 100px;
+    margin-right: 50px;
+ }
+
+.chef-3-img{
+    margin-left: 90px;
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+}
+
+.chef-3-para{
     text-align: center;
     margin-left: 70px;
     margin-right: 30px;
