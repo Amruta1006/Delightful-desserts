@@ -26,3 +26,20 @@ Imagine a high-tech writing desk specifically designed for programmers.  **VS Co
 
 If you want to see changes of other group members in VS code then use
 ```git pull```
+
+# Delightful Desserts
+
+![Shop Logo](./images/shop-related-images/shop.png)
+
+## Treat Yourself to a World of Sweetness! 😋
+
+"Indulge in sweet perfection with our delightful desserts! At Delightful Desserts, every bite is a moment of pure bliss, crafted to make your sweetest dreams come true. Savor the sweetness of life with our decadent treats that elevate your dessert experience. Whether you're treating yourself or sharing with loved ones, our confections are designed to delight and satisfy. Explore a world where every dessert speaks for itself and fulfills your sweetest desires."
+
+![Sweet Shop](./images/shop-related-images/sweet-shop.png)
+
+### Explore More
+
+- [About Us](./Pages/about.html)
+- [Our Best Chef](./pages/Chef.html)
+- [Sweet Library](./pages/sweet-library.html)
+
