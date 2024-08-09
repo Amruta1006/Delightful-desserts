@@ -37,9 +37,11 @@ If you want to see changes of other group members in VS code then use
 
 ![Sweet Shop](./images/shop-related-images/sweet-shop.png)
 
-### Explore More
 
-- [About Us](./Pages/about.html)
-- [Our Best Chef](./pages/Chef.html)
-- [Sweet Library](./pages/sweet-library.html)
+You can place this `README.md` file in the root directory of your project repository. Make sure to replace any placeholders (e.g., the repository URL) with actual values relevant to your project.
 
+## How to Use
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/delightful-desserts.git
